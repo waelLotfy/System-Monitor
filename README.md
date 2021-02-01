@@ -37,7 +37,7 @@ This project uses [Make](https://www.gnu.org/software/make/). The Makefile has f
 
 6. Submit!
 
-# Added Work 
+## Added Work 
 
 Build a process manager for the Linux Operating system that resembles the program htop which is a standard program for monitoring Linux systems.
 Linux stores data about the processes running on the system in lots of different files. 
